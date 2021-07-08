@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalarajan43
+- 👋 Hi, I’m @kamalarajan
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning reactnative
 
