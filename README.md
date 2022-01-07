@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamalarajan
-- 👀 I’m interested in front end
+- 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning reactnative
 
 <!---
